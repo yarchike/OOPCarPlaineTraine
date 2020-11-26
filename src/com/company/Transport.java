@@ -9,6 +9,6 @@ public class Transport {
 
     public void act(){
         System.out.println("Движение");
-        System.out.println("Второе движение");
+        System.out.println("Второе движение!");
     }
 }
